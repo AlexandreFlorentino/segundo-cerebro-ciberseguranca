@@ -33,5 +33,4 @@ A IA mapeou frameworks de referência (MITRE ATT&CK e OWASP) para analisar vetor
 ## 🔗 Link do Notebook Compartilhado
 [https://notebook.google.com/notebook/483d27f0-5e30-4df5-bd17-583627dc2a92]
 
-## 📂 Materiais Gerados e Evidências
-ndo o conteúdo técnico do notebook.
+
